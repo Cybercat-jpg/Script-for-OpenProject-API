@@ -25,8 +25,8 @@ pident = ""
 pname = ""
 pstatus = "on track" #Default Project status
 pdescription = "Everything is ***fine***" #Default project status description
-authkey = "2cU9tadfEgLyTgiHyAhoeUx4FEwy39raoRui9qzqw7o" #API Key created with Postman
-url = 'http://172.16.12.178:8080/api/v3/projects/' #URL for the POST-Request
+authkey = "XXX" #API Key created with Postman
+url = 'http://XXX:8080/api/v3/projects/' #URL for the POST-Request
 
 #### Parser Arguments ####
 parser = argparse.ArgumentParser()
