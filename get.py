@@ -25,7 +25,7 @@ pident = ""
 pname = ""
 pstatus = "on track" #Default Project status
 pdescription = "Everything is ***fine***" #Default project status description
-authkey = "XXX" #API Key created with Postman
+authkey = TOKEN #environment variable of API token
 url = 'http://XXX:8080/api/v3/projects/' #URL for the POST-Request
 
 #### Parser Arguments ####
